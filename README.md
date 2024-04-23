@@ -26,15 +26,13 @@
 ### Socials
 
 <p align="left">
- <a href="https://www.facebook.com/jugoslav.ackoski/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-<a href="https://https://github.com/jugosack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
- <a href="https://www.linkedin.com/in/jugoslav-achkoski-3a074021/?originalSubdomain=mk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- <a href="https://twitter.com/Jugosla22401325" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+ <a href="https://https://www.facebook.com/kristijan.bojlevski/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+<a href="https://https://https://github.com/Kristijan26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+   <a href="https://twitter.com/26Kristijan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<!-- <a href="https://www.instagram.com/kbojlevski26/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p> -->
 ### Support Me
 
-<p>Feel free to check one of my work using HTML/CSS and Javascript <a href="https://jugosack.github.io/">=> Click Here</a></p>
 
 ## Feedback
 
-- 📫 If you have any feedback, please reach out to me at jugoslav_ackoski@yahoo.com
+- 📫 If you have any feedback, please reach out to me at kbojlevski41@gmail.com
