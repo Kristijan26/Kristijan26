@@ -16,7 +16,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="//https://www.bloodshed.net/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fedu.pjwstk.edu.pl%2Fwyklady%2Fpoj%2Fscb%2F&psig=AOvVaw0qMhBPO9mA_aibxI4foWre&ust=1713965860092000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDD0MS62IUDFQAAAAAdAAAAABAZ" width="36" height="36" alt="C++" /></a>
+  <a href="https://www.bloodshed.net/" target="_blank" rel="noreferrer"><img src="URL_НА_ВАШАТА_ИКОНА_ЗА_C++" width="36" height="36" alt="C++" /></a>
+
 </p>
 
 
