@@ -29,8 +29,7 @@
  <a href="https://https://www.facebook.com/kristijan.bojlevski/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 <a href="https://https://https://github.com/Kristijan26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
    <a href="https://twitter.com/26Kristijan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
- <a href="https://www.instagram.com/kbojlevski26/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p> -->
-### Support Me
+ <a href="https://www.instagram.com/kbojlevski26/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p> 
 
 
 ## Feedback
