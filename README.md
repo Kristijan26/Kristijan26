@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 240px; height: 175px; margin: 0px; width: 175px;" alt="The Buzzing Studio GIFs on GIPHY - Be Animated" jsname="kn3ccd">
+<img align ="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 240px; height: 175px; margin: 0px; width: 175px;" alt="The Buzzing Studio GIFs on GIPHY - Be Animated" jsname="kn3ccd">
 
 
 
