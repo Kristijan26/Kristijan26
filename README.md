@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="coding" width="400" sre=“https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc4eGFyd215cTJ6Mzd4dHhhdmJtaXFkc2ltOHVubG9hOHFqZ3R5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif>
+<img align="right" alt="coding" width="400" sre=“https://<img src=<img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 480px; height: 351px; margin: 0px; width: 351px;" alt="The Buzzing Studio GIFs on GIPHY - Be Animated" jsname="kn3ccd">
 
 
 
